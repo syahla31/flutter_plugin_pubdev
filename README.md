@@ -5,6 +5,8 @@
 > NIM     : 2141720015
 >
 > Kelas   : TI - 3G
+>
+> Link Github : https://github.com/syahla31/flutter_plugin_pubdev.git 
 
 ## 7. Praktikum Menerapkan Plugin di Project Flutter
 
